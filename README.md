@@ -46,6 +46,6 @@ data = np.load("file_name.npy")
 
 A sample example for ambient CC modeling using Specfem3D Cartesian is provided in the folder:
 
-Ambient_CC_modeling/
+Ambient CC modeling/
 
 For any questions, email at apandey@mines.edu
