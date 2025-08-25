@@ -4,7 +4,7 @@ Pandey, A., Girard, A., & Shragge, J. (2025). First-order Control Factors for Oc
 
 The dataset associated with this work is publicly available on Zenodo:
 
-[Download Dataset (DOI)](https://doi.org/10.5281/zenodo.16941774)
+[Download Dataset](https://doi.org/10.5281/zenodo.16941774)
 
 
 
