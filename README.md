@@ -1,5 +1,6 @@
 # First-order Control Factors for Ocean-bottom Ambient Seismology Interferometric Observations  
 
+Pandey, A., Girard, A., & Shragge, J. (2025). First-order Control Factors for Ocean-bottom Ambient Seismology Interferometric Observations. EarthArXiv eprints, X5R143.
 
 The dataset associated with this work is publicly available on Zenodo:
 
