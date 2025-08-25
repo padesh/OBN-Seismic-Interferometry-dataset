@@ -1,0 +1,27 @@
+make_noise:
+  ['uniform']
+uniform :
+  weight: 1
+gaussian :
+  n_blobs: 1
+  weight: [1,0,0.0]
+  center_x: [63000.0, 28000.0, 35000.0]
+  center_y: [58000, 10000.0, 10000.0]
+  sigma_x: [63000.0, 2000.0, 1000.0]
+  sigma_y: [10000.0, 2000.0, 1000.0]
+  azimuth: [90.0, 0.0, 0.0]
+disk :
+  weight: 0.0
+  r1: 0.0
+  r2: 8000.0
+  center_x: 10000.0
+  center_y: 30500.0
+blocks :
+  n_blocks: 0
+  weight: [1.0, 2.0]
+  center_x: [10000.0, 35000.0]
+  center_y: [10000.0, 10000.0]
+  width_x: [2000.0, 1000.0]
+  width_y: [15000.0, 6000.0]
+random :
+  weight: 0.0
