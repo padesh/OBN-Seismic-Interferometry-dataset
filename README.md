@@ -30,8 +30,8 @@ data = np.load("file_name.npy", allow_pickle=True).item()
 
 # Access individual components
 Crr = data["Crr"]
-Czz = data["Czz"]
-Crz = data["Crz"]
+Cvv = data["Cvv"]
+Crv = data["Crv"]
 ```
 
 ### Other Sections
