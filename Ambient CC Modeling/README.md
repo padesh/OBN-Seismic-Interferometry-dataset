@@ -4,7 +4,7 @@
 ---
  
 Do **NOT** attempt this example until you are familiar with the theory described in:  
-[First-order Control Factors for Ocean-bottom Ambient Seismology Interferometric Observations](https://eartharxiv.org/repository/view/8821/)
+[First-order Control Factors for Ocean-bottom Ambient Seismology Interferometric Observations](https://academic.oup.com/gji/article/243/2/ggaf351/8249297)
 
 ---
 
